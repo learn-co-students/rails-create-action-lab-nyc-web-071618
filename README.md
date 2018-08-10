@@ -1,3 +1,13 @@
+<!-- StudentsController
+  POST create
+  with valid attributes creates a new student (FAILED - 1)
+  redirects to the new student (FAILED - 2)
+
+  form page
+  form renders with the new action (FAILED - 3)
+  new form submits content and renders form content (FAILED - 4)
+  creates a record in the database (FAILED - 5) -->
+
 # Create Action Lab
 
 1. Build a working `create` action
